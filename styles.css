@@ -324,6 +324,17 @@ h2{
     padding: 15px;
 }
 
+
+
+.images_slice img{
+    width: 600px;
+    margin-right: 5rem;
+    height: auto;
+}
+.gap_slice{
+    gap: 7rem;
+}
+
 .contact{
     display: flex;
     flex-direction: column;
@@ -367,7 +378,7 @@ h2{
 }
 .contact p{
     font-size: 1.2rem;
-    color:#d2cfca;
+    color:#83817d;
     padding-bottom: 1rem;
 }
 .footer{
